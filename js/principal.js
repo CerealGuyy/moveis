@@ -1,4 +1,5 @@
-var banners =
+var banners = ["Do lixo ao luxo!","Reaproveitar é aproveitar!"];
+//restante do arquivo
 ["Os melhores do Brasil!", "Qualidade e preço baixo!"];
 var bannerAtual = 0;
 function trocaBanner() {
